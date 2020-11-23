@@ -17,8 +17,8 @@ from aliyunsdkalidns.request.v20150109 import UpdateDomainRecordRequest, Describ
     DescribeDomainRecordInfoRequest
 from aliyunsdkcore import client
 
-access_key_id = "w1jPPOxPEtB8Q44g"
-access_Key_secret = "qjf8b2uvltKEDsVuFMd9oLDgtkkw05"
+access_key_id = "xxxxx"
+access_Key_secret = "xxxxx"
 
 # 请填写你的账号ID
 account_id = "magiczhang@outlook.com"
